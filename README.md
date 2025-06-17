@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Hi, I'm @Anshu78780<br><br>## 👀 About Me  <br>- 🌐 Passionate about **Web Development**.  <br>- 📚 Currently diving deep into **Next.js**.  <br>- 🤝 Open to collaborating on **exciting and creative projects**.<br><br>## 💡 Interests  <br>- Crafting beautiful user interfaces.  <br>- Exploring modern web technologies.  <br>- Building projects that make a difference.  <br><br>## 📫 Let's Connect  <br>- 📧 **Email**: [hunternisha55@gmail.com](mailto:hunternisha55@gmail.com)  <br>- 🌟 Let's create something amazing together!
+# 👋 Hi, I'm @Anshu78780<br><br>## 👀 About Me  <br>- 🌐 Passionate about **Web Development**.  <br>- 📚 Currently diving deep into **Next.js**.  <br>- 🤝 Open to collaborating on **exciting and creative projects**.<br><br>## 💡 Interests  <br>- Crafting beautiful user interfaces.  <br>- Exploring modern web technologies.  <br>- Building projects that make a difference.  <br><br>## 📫 Let's Connect  Let's create something amazing together!
 
 
 ## 🌐 Socials:
