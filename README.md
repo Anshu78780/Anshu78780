@@ -36,11 +36,10 @@ Let's create something amazing together!
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 🏆 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu78780&layout=compact&theme=dark&hide_border=false)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anshu78780&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshu78780&layout=compact&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Anshu78780&theme=dark&hide_border=false)<br/>
 
 ---
