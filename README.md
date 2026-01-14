@@ -73,8 +73,8 @@ Let’s collaborate and build something meaningful together!
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats-roan-ten-85.vercel.app/api?username=Anshu78780&theme=dark&hide_border=false)  
-![](https://github-readme-stats-roan-ten-85.vercel.app/api/top-langs/?username=Anshu78780&layout=compact&theme=dark&hide_border=false)  
+![](https://github-readme-stats-roan-ten-85.vercel.app/api?username=Anshu78780&show_icons=true&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-roan-ten-85.vercel.app/api/top-langs/?username=Anshu78780&layout=compact&theme=tokyonight&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Anshu78780&theme=dark&hide_border=false)
 
 ---
